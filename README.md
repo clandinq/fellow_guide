@@ -4,7 +4,7 @@
 # Taking part in classes and seminars
 ## Classes
 There are two ways you can take a class at Northwestern:
-1. You can **audit** a class by emailing a professor before the start of the quarter, and defining what the requirements will be. Most professors require you to do all the readings, some do not want you handing in assignments since this implies a larger workload for them or their TAs. You can only audit MBA or PhD courses. Here is a list of all available courses:
+1.  You can **audit** a class by emailing a professor before the start of the quarter, and defining what the requirements will be. Most professors require you to do all the readings, some do not want you handing in assignments since this implies a larger workload for them or their TAs. You can only audit MBA or PhD courses. Here is a list of all available courses:
   1. Kellogg MBA courses: https://www6.kellogg.northwestern.edu/CourseCatalog
   2. Kellogg PhD courses: https://www.kellogg.northwestern.edu/doctoral/academicexperience/phd-courses.aspx
   3. Department of Economics PhD courses: https://economics.northwestern.edu/graduate/courses/index.html
