@@ -22,7 +22,7 @@ Here is a list of some of the great resources the university has to offer:
 - [Henry Crown Sports Pavilion](https://goo.gl/maps/hnHPGgaC19kkGLPDA):
     -  Membership is not included as part of the fellows program. You can purchase an annual membership for $400 and a $100 one-time registration fee. You can complete a membership request [online](https://nurecreation.com/sports/2015/8/12/employeemembership.aspx?path=membership), but it’s easiest to purchase it in-person at the membership office from 9-4. The membership office is left of the entrance service desk at the Henry Crowne Pavilion.
     -  There are year-round [adult swim lessons](https://nurecreation.com/sports/2015/8/12/adultswimlessons.aspx)(both group and private lessons) and [scuba diving classes](https://nurecreation.com/sports/2015/8/12/scubadivingclasses.aspx).
-    -  The [Wellness Suite](https://nurecreation.com/facilities/wellness-suite/12) has free white-light therapy, which is quite useful in winter when there is limited sunlight. You can also schedule massages here.
+    -  The [Wellness Suite](https://nurecreation.com/facilities/wellness-suite/12) has free white-light therapy, which is quite useful in winter when there is limited sunlight. You can also schedule massages there.
 - The [Northwestern Sailing Center](https://northwesternsailing.com/) has sailing, windsurfing, stand up paddle, rentals and classes.
 - The [Bienen School of Music](https://www.music.northwestern.edu/events) has year-round concerts.
 - The [Block Museum of Art](https://www.blockmuseum.northwestern.edu/) will be reopening on September 22, 2022.
