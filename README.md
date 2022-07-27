@@ -1,4 +1,5 @@
 # Tips for Research Fellows at Northwestern Kellogg
+Please [submit an issue](https://github.com/clandinq/fellow_guide/issues) if you have any suggestions or corrections for this guide!
 
 ## A very short guide to the Kellogg Global Hub
 - You need your wildcard to unlock the building's main doors, the elevator, and department doors after 5 PM during weekdays and at all times during weekends.
