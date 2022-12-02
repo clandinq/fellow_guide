@@ -77,17 +77,17 @@ One of the multiple requirements for Ph.D. applications is getting a good enough
 - **Pacing**: Try to study intensely for a short amount of time. It’s much harder to sustain 6 months of light studying for the GRE than 2 months of consistent preparation. I studied for 95 hours in total over 4 months, which is an average of 5.5 hours a week. If I had been more consistent and studied 8 hours per week, I could have finished in three months. I would recommend doing one hour a day during from Monday to Friday and then a two hour session during the weekend. Closer to the exam, this can include a practice exam during the weekend.
 
 ## Studying for the GRE
-*Summary*: Magoosh + Official math questions + verbal flashcards + practice exams. I finished all of the Magoosh math questions (and did some verbal questions), studied the Magoosh flashcards during downtimes (bus rides, breakfast, etc.) and practiced using the official ETS quant questions (which you can probably get from someone who already took the test) and took practice exams when my exam was approaching.
-- **Magoosh**: I used Magoosh to prepare for the exam and highly recommend it (try to find a coupon and get the 6-month version). I also bought the Manhattan 5 pound book and did not end up doing a single question. Now it’s used as a monitor stand.
+*Summary*: Magoosh + [Official math questions](https://www.amazon.com/Official-Quantitative-Reasoning-Practice-Questions/dp/1259863506/ref=sr_1_1?crid=1ETISWXD14CUX&keywords=ets+quant&qid=1670012410&s=books&sprefix=ets+quan%2Cstripbooks%2C106&sr=1-1) + verbal flashcards + practice exams. I finished all of the Magoosh math questions (and did some verbal questions), studied the Magoosh flashcards during downtimes (bus rides, breakfast, etc.) and practiced using the official ETS quant questions (which you can probably get from someone who already took the test) and took practice exams when my exam was approaching.
+- **Magoosh**: I used [Magoosh](https://gre.magoosh.com/invite/CNJ8E4) to prepare for the exam and highly recommend it (try to find a coupon and get the 6-month version). I also bought the Manhattan 5 pound book and did not end up doing a single question. Now it’s used as a monitor stand.
 - Math videos: I had been out of university for almost 3 years so I decided to watch all the math videos. I feel like the tricks I learned there helped me a lot. You can watch the videos at 1.25 or 1.5 speed.
 - **Difficulty of Magoosh problems**: Magoosh problems are great, but they’re much harder than the ones in the test. Also, it sometimes feels like Magoosh problems are harder simply because they are trying to trick you (and not because the procedure is harder). So I’d suggest being patient, and NOT doing Magoosh problems the week of the exam. You can switch to official exams and problems in the weeks close to the exam. Don’t feel bad if you’re not getting 100% of the Magoosh problems right.
-- **Flashcards**: You can practice verbal with the Magoosh flashcards app. Do this when having breakfast, on the bus, etc. Learning words is the best way to improve on verbal (your reading comprehension is not going to improve that much).
+- **Flashcards**: You can practice verbal with the [Magoosh flashcards app](https://play.google.com/store/apps/details?id=com.magoosh.flashcards.gre&hl=en_US&gl=US&pli=1]). Do this when having breakfast, on the bus, etc. Learning words is the best way to improve on verbal (your reading comprehension is not going to improve that much).
 - **Practice exams**: Doing full practice tests is useful, but they also imply that you’re spending time on verbal. I’d suggest not doing too many. (Maybe around 5-6 is good). I did 9 before my first exam and think it would’ve been a better investment to do more quant practice. Here are the best practice exams:
-    - ETS Official Book Test 1
+   	- [ETS Official Book Test 1](https://www.amazon.com/Official-Guide-GRE-General-Test/dp/1259862410)
 	- ETS Official Book Test 2
 	- Magoosh (as many as you want!)
-	- Kaplan Free Test
-	- ETS Powerprep 1
+	- [Kaplan Free Test](https://www.kaptest.com/gre/free/free-gre-practice-test)
+	- [ETS Powerprep 1](https://www.ets.org/gre/test-takers/general-test/prepare/powerprep.html)
 	- ETS Powerprep 2 (I’d leave these two for the end)
 - Final preparation: Don’t study too much the week before the exam. I felt like I did (18 hours the week before) and was tired by the time of the exam. 
 
